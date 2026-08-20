@@ -2,7 +2,9 @@
   "id": "a06p58",
   "type": "income",
   "amount": 190,
-  "notes": "يوم 18/8/2026",
+  "notes": "18/8/2026",
   "payer": null,
-  "timestamp": 1787187274904
+  "timestamp": 1787187274904,
+  "_sha": "ef4855ed1bc4a129c978581008882dcb72cddc64",
+  "_filename": "tx_1787187274904_a06p58.json"
 }
