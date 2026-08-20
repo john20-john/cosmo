@@ -2,5 +2,11 @@
   "id": "y68hjb",
   "name": "غزل بنات ",
   "price": 5,
-  "icon": "🍡"
+  "icon": "🍡",
+  "variations": [
+    {
+      "name": "كبير",
+      "price": 10
+    }
+  ]
 }
