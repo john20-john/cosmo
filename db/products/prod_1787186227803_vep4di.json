@@ -1,6 +1,20 @@
 {
   "id": "vep4di",
-  "name": "فشار صغير ",
+  "name": "فشار ",
   "price": 5,
-  "icon": "🍿"
+  "icon": "🍿",
+  "variations": [
+    {
+      "name": "كبير",
+      "price": 10
+    },
+    {
+      "name": "عائلي",
+      "price": 15
+    },
+    {
+      "name": "اكسترا",
+      "price": 20
+    }
+  ]
 }
