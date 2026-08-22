@@ -3,5 +3,10 @@
   "name": "اندومي",
   "price": 10,
   "icon": "🥃",
-  "variations": []
+  "variations": [
+    {
+      "name": "كبير",
+      "price": 20
+    }
+  ]
 }
